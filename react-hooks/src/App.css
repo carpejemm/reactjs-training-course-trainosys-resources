@@ -1,0 +1,53 @@
+.use-context-component {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.use-context-heading {
+  color: #333;
+}
+
+.user-parent-component {
+  background-color: #e0e0e0;
+  padding: 10px;
+}
+
+.user-profile-component {
+  background-color: pink;
+  padding: 10px;
+}
+
+.user-details-component {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+.user-settings-component {
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+.use-reducer-component {
+  padding: 20px;
+  margin-bottom: 100px;
+}
+
+button {
+  margin: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.incomplete {
+  text-decoration: none;
+}
+
+.displayNone {
+  display: none;
+}
+
+.notDisplayNone {
+  display: inline-block;
+}

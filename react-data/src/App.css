@@ -1,0 +1,27 @@
+.app-container { 
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.score-widget-container {
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.team-details-container {
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.login-container {
+  border: 1px solid green;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.counter-container {
+  border: 1px solid purple;
+  padding: 10px;
+  margin-bottom: 30px;
+}
